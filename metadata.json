@@ -1,6 +1,0 @@
-{
-  "name": "Spatial - 2D to 3D Space Engine",
-  "description": "Transform any 2D image into interactive 3D spatial space for free. Commencing operations soon.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
